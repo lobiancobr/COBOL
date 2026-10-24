@@ -7,3 +7,4 @@
   <li>Manipulação de Strings e Estruturas de Dados</li>
   <li>Modularização, CALL, Máscaras Numéricas e Encerramento de Programas</li>
 </ol>
+<p>Os arquivos CALCULA-FOLHA e FOLHA-PRINCIPAL foram alterados para funcionar no OpenCOBOL IDE</p>
